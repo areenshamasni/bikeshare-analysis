@@ -41,6 +41,7 @@ The project uses Python along with Flask framework for building a web applicatio
 ## Files Included
 
 - `app.py`: Flask application to handle web requests and data processing.
+- `bikeshare.py`: Terminal application, It defines functions to get user input, load and analyze bikeshare data, and display results. 
 - `templates/`: HTML templates for rendering the web interface.
 
 ## Credits
