@@ -12,7 +12,7 @@ The project uses Python along with Flask framework for building a web applicatio
 - **Statistics:** Calculate and display statistics such as most popular stations, trip durations, and user demographics.
 - **Visualization:** Visualize data trends using charts and graphs (not implemented yet in this example).
 
-## How to Use
+## How to Use Flask App
 
 1. **Clone the repository:**
    ```bash
@@ -31,6 +31,12 @@ The project uses Python along with Flask framework for building a web applicatio
 
 4. **Open your web browser:**
    Navigate to `http://localhost:5000` to explore the bikeshare data interactively.
+   
+## How to Use Terminal app
+  1. **Run the Terminal application:**
+   ```bash
+   python bikeshare.py
+   ```
 
 ## Files Included
 
