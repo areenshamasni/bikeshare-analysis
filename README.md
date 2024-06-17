@@ -22,13 +22,7 @@ The project uses Python along with Flask framework for building a web applicatio
 
 2. **Install dependencies:**
    ```bash
-   pip install Flask
-   ```
-      ```bash
-   pip install pandas
-   ```
-      ```bash
-   pip install Werkzeug
+   pip install Flask pandas Werkzeug
    ```
 3. **Run the Flask application:**
    ```bash
